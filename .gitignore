@@ -1,0 +1,5 @@
+tenant.wasm
+strataflow_adapter.go
+.sf-env.json
+.sf-memcap
+.sf-invoke.log
